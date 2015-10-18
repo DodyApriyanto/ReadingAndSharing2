@@ -5,7 +5,7 @@
 <body>  
 <?php
 echo "10113149 - Dody Apriyanto";
-echo "dibawahnya diisi oleh anggota";
+echo "10113168 - Aldiyana Dwi Agung P";
 ?>
 </body>
 </html>
