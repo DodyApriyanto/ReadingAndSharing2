@@ -4,8 +4,8 @@
 </head>
 <body>  
 <?php
-echo "10113149";
-echo "Dody Apriyanto";
+echo "10113149 - Dody Apriyanto";
+echo "dibawahnya diisi oleh anggota";
 ?>
 </body>
 </html>
